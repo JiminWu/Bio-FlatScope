@@ -30,4 +30,4 @@ The code can be tested using our provided examples. A GPU and Matlab Parrallel C
 
 ## Contact Us
 In case of any queries regarding the code, please reach out to [Jimin](mailto:jimin.wu@rice.edu) or [Vivek](mailto:vivekb@rice.edu]).
-Other raw and analysed data are available fore research purpose from corresponding author upon reasonable request.
+Other raw and analysed data are available for research purpose from corresponding author upon reasonable request.

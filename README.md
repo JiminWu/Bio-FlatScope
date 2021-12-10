@@ -8,7 +8,7 @@ Nature BME: "In vivo imaging of vasculature and neural activity with a flat, len
 
 ## 2D Reconstruction
 ### Data Files
-Two files are necessary for 2D reconstruction:
+Two supporting data files are necessary for 2D reconstruction:
   1. A single point spread function (PSF) at a certain depth, saved as a ".mat" file.
   2. Raw capture from Bio-FlatScope, saved as an image (.tiff).
 ### Included Example
@@ -19,7 +19,7 @@ The code can be tested using our provided examples. A GPU and Matlab Parrallel C
 
 ## 3D Reconstruction
 ### Data Files
-Two files are necessary for 2D reconstruction:
+Two supporting data files are necessary for 3D reconstruction:
   1. A stack of point spread functions (PSFs) at different axial distance, saved as a ".mat" file.
   2. Raw capture from Bio-FlatScope, saved as an image (.tiff).
 ### Included Example

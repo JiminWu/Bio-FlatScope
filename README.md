@@ -2,7 +2,7 @@
 
 The codes for our lensless microscope reconstruction (link to be added), proposed in:
 
-Nature BME: "In vivo imaging of vasculature and neural activity with a flat, lensless microscope", Jesse K. Adams<sup>&</sup>, Dong Yan<sup>&</sup>, Jimin Wu<sup>&</sup>, Vivek Boominathan<sup>&</sup>, Sibo Gao, Alex V. Rodriguez, Soonyoung Kim, Jennifer Carns, Rebecca Richards-Kortum, Caleb Kemere, Ashok Veeraraghavan* and Jacob T. Robinson*
+* **Nature BME**: "In vivo imaging of vasculature and neural activity with a flat, lensless microscope", Jesse K. Adams<sup>&</sup>, Dong Yan<sup>&</sup>, Jimin Wu<sup>&</sup>, Vivek Boominathan<sup>&</sup>, Sibo Gao, Alex V. Rodriguez, Soonyoung Kim, Jennifer Carns, Rebecca Richards-Kortum, Caleb Kemere, Ashok Veeraraghavan* and Jacob T. Robinson*
 
 <sub><sup>&</sup> Denotes equal contribution. | * Corresponding authors </sub>
 
@@ -23,7 +23,7 @@ Two supporting data files are necessary for 3D reconstruction:
   1. A stack of point spread functions (PSFs) at different axial distance, saved as a ".mat" file.
   2. Raw capture from Bio-FlatScope, saved as a ".mat" file.
 ### Included Example
-We have provided one examples for Bio-FlatScope 3D reconstruction. The raw data is from a 3D test sample prepared by suspending fluuorescent beads in PDMS phantom. (Results are shown in Figure 2 in our paper)
+We have provided one example for Bio-FlatScope 3D reconstruction. The raw data is from a 3D test sample prepared by suspending fluuorescent beads in PDMS phantom. (Results are shown in Figure 2 in our paper)
 ### Running the code
 The code can be tested using our provided examples. A GPU and Matlab Parrallel Computing Toolbox are needed to speed up the reconstruction. 
 

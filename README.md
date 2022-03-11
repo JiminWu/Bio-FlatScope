@@ -1,6 +1,6 @@
 # Bio-FlatScope
 
-The codes for our lensless microscope reconstruction (link to be added), proposed in:
+The codes for our lensless microscope reconstruction ([link](https://www.nature.com/articles/s41551-022-00851-z)), proposed in:
 
 **Nature BME**: "In vivo imaging of vasculature and neural activity with a flat, lensless microscope", Jesse K. Adams<sup>&</sup>, Dong Yan<sup>&</sup>, Jimin Wu<sup>&</sup>, Vivek Boominathan<sup>&</sup>, Sibo Gao, Alex V. Rodriguez, Soonyoung Kim, Jennifer Carns, Rebecca Richards-Kortum, Caleb Kemere, Ashok Veeraraghavan* and Jacob T. Robinson*
 

@@ -2,7 +2,7 @@
 
 The codes for our lensless microscope reconstruction ([link](https://www.nature.com/articles/s41551-022-00851-z)), proposed in:
 
-**Nature BME**: "In vivo imaging of vasculature and neural activity with a flat, lensless microscope", Jesse K. Adams<sup>&</sup>, Dong Yan<sup>&</sup>, Jimin Wu<sup>&</sup>, Vivek Boominathan<sup>&</sup>, Sibo Gao, Alex V. Rodriguez, Soonyoung Kim, Jennifer Carns, Rebecca Richards-Kortum, Caleb Kemere, Ashok Veeraraghavan* and Jacob T. Robinson*
+**Nature BME**: "In vivo lensless microscopy via a phase mask generating diffraction patterns with high-contrast contours", Jesse K. Adams<sup>&</sup>, Dong Yan<sup>&</sup>, Jimin Wu<sup>&</sup>, Vivek Boominathan<sup>&</sup>, Sibo Gao, Alex V. Rodriguez, Soonyoung Kim, Jennifer Carns, Rebecca Richards-Kortum, Caleb Kemere, Ashok Veeraraghavan* and Jacob T. Robinson*
 
 <sub><sup>&</sup> Denotes equal contribution. | * Corresponding authors </sub>
 

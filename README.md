@@ -23,7 +23,7 @@ Two supporting data files are necessary for 3D reconstruction:
   1. A stack of point spread functions (PSFs) at different axial distance, saved as a ".mat" file. Available [here](https://drive.google.com/file/d/1UYPXWlYjghcT7DvZNz0ZURw5mnc63Mzf/view?usp=sharing) (Google Drive)
   2. Raw capture from Bio-FlatScope, saved as a ".mat" file.
 ### Included Example
-We have provided one example for Bio-FlatScope 3D reconstruction. The raw data is from a 3D test sample prepared by suspending fluuorescent beads in PDMS phantom. (Figure 2 in our paper)
+We have provided one example for Bio-FlatScope 3D reconstruction. The raw data is from a 3D test sample prepared by suspending fluorescent beads in PDMS phantom. (Figure 2 in our paper)
 ### Running the code
 The code can be tested using our provided examples. A GPU and Matlab Parrallel Computing Toolbox are needed to speed up the reconstruction. 
 
